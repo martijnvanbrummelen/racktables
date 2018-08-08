@@ -3,6 +3,7 @@ Thank you for selecting RackTables as your datacenter management solution!
 If you are looking for documentation or wish to send feedback, please
 look for the respective links at [project's web-site](http://racktables.org).
 
+
 # How to install RackTables
 
 ## 1. Prepare the server
